@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "DT_RowId": "1",
+      "code": "0001",
+      "name": "test1.dbf",
+      "field": "abc"
+    }
+  ],
+  "options": [],
+  "files": []
+}
